@@ -1,0 +1,153 @@
+#firstS{
+    background-color: plum;
+    width: 100%;
+    height: 600px;
+}
+.text{
+    padding-top: 50px;
+    margin-left: 700px;
+    margin-right:200px;
+}
+#blackbox{
+    background-color: rgb(17, 17, 75);
+   position: absolute;
+   top:0;
+   left:290px;
+    height:600px ;
+    width: 20%;
+    float: left;
+}
+#blackbox img, #orangebox img, #orangebox2 img, #secblack img, #secblack4 img{
+    border-radius: 50%;
+}
+.type1 {
+    width: 100px;
+    height: 100px;
+
+    border: 3px solid rgb(252, 252, 252);
+}
+#orangebox{
+    background-color: rgb(252, 125, 6);
+    width:20%;
+    height: 200px;
+    margin-top: 317px;
+    margin-left:575px;
+    float: left;
+}
+#secblack{
+    background-color: rgb(56, 159, 228);
+    width:20%;
+    height: 210px;
+    margin-top: 317px;
+    float: left;
+}
+u.dotted{
+    border-bottom: 1px dashed #999;
+    text-decoration: none;
+  }
+#orangebox2{
+    background-color: rgb(252, 125, 6);
+    width:20%;
+    height: 200px;
+    margin-top: 317px;
+    margin-left:00px;
+    float: left;
+}
+#secondS{
+    background-color: rgb(235, 217, 217);
+    width: 100%;
+    height: 500px;
+}
+#sen{
+   padding:50px;
+   margin-left: 240px;
+   padding-top: 10%;
+   width: 523px;
+   float: left;
+}
+#secblack2{
+    background-color: rgb(56, 159, 228);
+    width:20%;
+    height: 495px;
+    float: left;
+    opacity: 0.8;
+}
+#thirdS{
+    background-image: url(img/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 1200px;
+}
+
+#secblue{
+    background-color: rgb(2, 8, 100);
+    width:40%;
+    height: 500px;
+    margin-top: 300px;
+    position: absolute;
+}
+#secblack3{
+    background-color: rgb(56, 159, 228);
+    width:20%;
+    height: 200px;
+    float: left;
+    opacity: 0.5;
+    margin-left: 863px;
+
+}
+.vertical-text {
+	-webkit-transform: rotate(270deg);
+    transform-origin: left top 0;
+    float: left;
+    color: white;
+    margin-left: 5%;
+    margin-top: 30%;
+    font-size: 25px;
+
+}
+
+.next-text {
+    height:100px;
+    width:350px;
+    position: absolute;
+   bottom: 300px;
+    right:100px;
+    color:white;
+    line-height: 1.5;
+
+}
+#halfcirc{
+    position: relative;
+    left:375px;
+    top:200px;
+
+}
+
+#secblack4{
+    background-color: rgb(56, 159, 228);
+    position:absolute;
+    top:2050px;
+    right:430px;
+    width:20%;
+    height: 60%;
+    float: left;
+    opacity: 0.8;
+
+}
+#forthS{
+    background-color: rgb(235, 217, 217);
+    width: 100%;
+    height: 500px;
+}
+#secblack5{
+    position:relative;
+    bottom:100px;
+    left:285px;
+    background-color: rgb(235, 217, 217);
+    width:30%;
+    height:90%;
+}
+.participation{
+    padding-top:40px;
+}
